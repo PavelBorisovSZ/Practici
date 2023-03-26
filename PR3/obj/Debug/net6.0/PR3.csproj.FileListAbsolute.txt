@@ -1,0 +1,14 @@
+C:\Users\о\Desktop\Уп 02\Новая папка\PR3\obj\Debug\net6.0\PR3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\о\Desktop\Уп 02\Новая папка\PR3\obj\Debug\net6.0\PR3.AssemblyInfoInputs.cache
+C:\Users\о\Desktop\Уп 02\Новая папка\PR3\obj\Debug\net6.0\PR3.AssemblyInfo.cs
+C:\Users\о\Desktop\Уп 02\Новая папка\PR3\obj\Debug\net6.0\PR3.csproj.CoreCompileInputs.cache
+C:\Users\о\Desktop\Уп 02\Новая папка\PR3\bin\Debug\net6.0\PR3.exe
+C:\Users\о\Desktop\Уп 02\Новая папка\PR3\bin\Debug\net6.0\PR3.deps.json
+C:\Users\о\Desktop\Уп 02\Новая папка\PR3\bin\Debug\net6.0\PR3.runtimeconfig.json
+C:\Users\о\Desktop\Уп 02\Новая папка\PR3\bin\Debug\net6.0\PR3.dll
+C:\Users\о\Desktop\Уп 02\Новая папка\PR3\bin\Debug\net6.0\ref\PR3.dll
+C:\Users\о\Desktop\Уп 02\Новая папка\PR3\bin\Debug\net6.0\PR3.pdb
+C:\Users\о\Desktop\Уп 02\Новая папка\PR3\obj\Debug\net6.0\PR3.dll
+C:\Users\о\Desktop\Уп 02\Новая папка\PR3\obj\Debug\net6.0\ref\PR3.dll
+C:\Users\о\Desktop\Уп 02\Новая папка\PR3\obj\Debug\net6.0\PR3.pdb
+C:\Users\о\Desktop\Уп 02\Новая папка\PR3\obj\Debug\net6.0\PR3.genruntimeconfig.cache

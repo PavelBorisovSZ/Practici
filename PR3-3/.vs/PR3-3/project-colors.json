@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b8462993-2dc3-4c8c-bc3a-b522aa4eadbf": {
+      "ProjectGuid": "b8462993-2dc3-4c8c-bc3a-b522aa4eadbf",
+      "DisplayName": "PR3-3",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

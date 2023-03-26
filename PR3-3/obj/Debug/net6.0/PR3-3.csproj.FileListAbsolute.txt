@@ -1,0 +1,4 @@
+C:\Users\о\Desktop\Уп 02\Новая папка\PR3-3\obj\Debug\net6.0\PR3-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\о\Desktop\Уп 02\Новая папка\PR3-3\obj\Debug\net6.0\PR3-3.AssemblyInfoInputs.cache
+C:\Users\о\Desktop\Уп 02\Новая папка\PR3-3\obj\Debug\net6.0\PR3-3.AssemblyInfo.cs
+C:\Users\о\Desktop\Уп 02\Новая папка\PR3-3\obj\Debug\net6.0\PR3-3.csproj.CoreCompileInputs.cache
